@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Game data
+highscore.json
